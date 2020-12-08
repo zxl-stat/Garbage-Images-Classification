@@ -9,3 +9,6 @@ https://paperswithcode.com/sota/image-classification-on-imagenet
 
 ## Kaggle competition Link
 https://www.kaggle.com/c/stat440-20-module3
+
+## Validation
+![截屏2020-12-07 20 47 27](https://user-images.githubusercontent.com/58323835/101441293-a0134280-38cd-11eb-978e-28571c5c1899.png)
